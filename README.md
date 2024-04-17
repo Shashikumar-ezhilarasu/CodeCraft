@@ -16,7 +16,7 @@ This project was developed as part of a hackathon challenge to create a fashion 
 
 - HTML: Used for structuring the content of the website.
 - CSS: Used for styling and layout design.
-- JavaScript: Used for dynamic interactions (if applicable).
+
 
 ## Project Structure
 
