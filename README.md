@@ -29,4 +29,17 @@ The project consists of the following files and directories:
 ## Installation and Usage
 
 1. Clone the repository to your local machine:
+   
+
+3. Open the `index.html` file in a web browser to view the website.
+
+4. Explore the different sections of the website to discover outfit ideas, fashion trends, and shopping recommendations.
+
+## Contributing
+
+Contributions to improve the project are welcome! If you have any ideas for new features, design enhancements, or bug fixes, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
