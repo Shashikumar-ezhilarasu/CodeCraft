@@ -18,14 +18,6 @@ This project was developed as part of a hackathon challenge to create a fashion 
 - CSS: Used for styling and layout design.
 
 
-
-
-
-https://github.com/Shashikumar-ezhilarasu/CodeCraft/assets/152071778/91f33f91-d2dd-4e8f-82e4-bab6bcd56228
-
-
-
-
 ## Project Structure
 
 The project consists of the following files and directories:
