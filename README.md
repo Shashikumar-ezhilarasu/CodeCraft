@@ -1,4 +1,5 @@
 # Fashion Design Website Project
+<img width="1545" alt="image" src="https://github.com/Shashikumar-ezhilarasu/CodeCraft/assets/152071778/81540ed7-286c-4559-945e-b476bfc49a55">
 
 ## Description
 
