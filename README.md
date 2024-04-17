@@ -29,6 +29,7 @@ The project consists of the following files and directories:
 ## Installation and Usage
 
 1. Clone the repository to your local machine:
+   https://github.com/Shashikumar-ezhilarasu/CodeCraft.git
    
 
 3. Open the `index.html` file in a web browser to view the website.
