@@ -58,6 +58,7 @@ h2 {
     background-size: cover;
     background-position: center;
     height: 800px;
+    opacity: 90%;
 }
 
 .card-section {
@@ -412,3 +413,4 @@ hi{
 .designer{
     background-color: #C13EA7;
 }
+
